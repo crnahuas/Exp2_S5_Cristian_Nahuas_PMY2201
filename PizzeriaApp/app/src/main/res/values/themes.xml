@@ -1,8 +1,0 @@
-<resources>
-    <style name="Theme.PizzeriaApp" parent="android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:fontFamily">sans</item>
-        <item name="android:statusBarColor">#842D24</item>
-        <item name="android:navigationBarColor">#FFF8F0</item>
-        <item name="android:windowActionModeOverlay">true</item>
-    </style>
-</resources>

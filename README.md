@@ -1,7 +1,7 @@
-# La Pizzería
+# Clínica Veterinaria
 
-Aplicación Android en Kotlin para elegir pizzas, registrar clientes y gestionar pedidos e ingredientes. La pantalla Inicio muestra el total de clientes, los pedidos realizados y el último cliente registrado.
+Aplicación Android en Kotlin para registrar dueños y mascotas, agendar consultas veterinarias y seguir su atención. Inicio muestra los clientes registrados, las consultas y el último cliente registrado.
 
-En Android Studio selecciona **Open** y abre la carpeta **PizzeriaApp**. Espera la sincronización de Gradle, inicia un emulador desde **Tools > Device Manager** y ejecuta la configuración **app** con **Run**.
+En Android Studio selecciona **Open** y abre la carpeta **VeterinariaApp**. Espera la sincronización de Gradle, inicia un emulador desde **Tools > Device Manager** y ejecuta **app** con **Run**.
 
-Consulta [cómo funciona y cómo ejecutar la aplicación](PizzeriaApp/README.md).
+Consulta [cómo funciona y cómo ejecutar la aplicación](VeterinariaApp/README.md).
