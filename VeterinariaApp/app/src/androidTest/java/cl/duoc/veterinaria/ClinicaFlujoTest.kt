@@ -149,6 +149,8 @@ class ClinicaFlujoTest {
     }
     private fun capturar(nombre: String) {
         app.waitForIdle()
+        // Espera también a que SurfaceFlinger presente el último fotograma de Compose.
+        android.os.SystemClock.sleep(500)
         val inst = InstrumentationRegistry.getInstrumentation()
         val carpeta = File(inst.targetContext.getExternalFilesDir(null), "evidencias").apply { mkdirs() }
         val archivo = File(carpeta, nombre)
