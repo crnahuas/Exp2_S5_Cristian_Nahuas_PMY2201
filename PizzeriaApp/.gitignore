@@ -1,0 +1,17 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+.DS_Store
+
+.vscode/
+.github/modernize/
+__pycache__/
+*.apk
+*.aab
+*.zip
+*.jks
+*.keystore
+keystore.properties
